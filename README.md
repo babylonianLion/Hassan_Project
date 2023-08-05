@@ -1,5 +1,3 @@
-Sure! Here's a simple README.md file for your login application project:
-
 # Simple Login Application
 
 This is a basic web application built with Python Flask that allows users to register, login, view their dashboard, change their password, and logout. The application uses SQLite as the database to store user information and login sessions.
