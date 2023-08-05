@@ -1,3 +1,6 @@
+# Author: Hussain Al Zerjawi
+# Date: 05/08/2023
+
 import sqlite3
 from flask import Flask, render_template, request, redirect, url_for, session
 from datetime import datetime
