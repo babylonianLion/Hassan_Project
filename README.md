@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Hassan_Project.git
+git clone https://github.com/babylonianLion/Hassan_Project.git
 cd Hassan_Project
 ```
 
@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-This project is created by [Your Name](https://github.com/your-username).
+This project is created by [Hussain Al Zerjawi](https://github.com/babylonianLion).
 
 ---
 
